@@ -2,13 +2,21 @@
   "name": "react-fc-isotope",
   "version": "0.1.0",
   "private": true,
+  "author": "leorosse87@gmail.com",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "bootstrap": "4.5.0",
+    "isotope-layout": "3.0.6",
+    "prop-types": "15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "reactstrap": "8.4.1"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
   },
   "scripts": {
     "start": "react-scripts start",
